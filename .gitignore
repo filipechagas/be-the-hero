@@ -1,6 +1,8 @@
 *.sqlite
 node_modules
 node_modules/**/*
+__MACOSX
+__MACOSX/**/*
 .expo/*
 npm-debug.*
 *.jks
